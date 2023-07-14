@@ -1,0 +1,25 @@
+﻿import arcpy import numpy as np  # arcpy.env.workspace = "C:/Users/adrian/Documents/research/macrostrat/gis" arcpy.env.workspace = "C:\Users\XPS\Documents\research\macrostrat\gis"  buffers = np.arange(100, 1800, 100)  filenames = ['Laurentia_%04dkm' % x for x in buffers]  for ii, filename in enumerate(filenames):     arcpy.analysis.Buffer("Laurentia_no-north-slope",                            "Laurentia_buffered_margin_no-north-slope/"+ filename,                            "-%d Kilometers" % buffers[ii],                            "FULL", "ROUND", "LIST", "CONTINENT", "GEODESIC")
+arcpy.env.workspace = "C:\Users\XPS\Documents\research\macrostrat\gis"
+arcpy.env.workspace = 'C:/Users/XPS/Documents/research/macrostrat/gis'
+buffers = np.arange(100, 1800, 100)
+import numpy as np
+buffers = np.arange(100, 1800, 100)
+filenames = ['Laurentia_%04dkm' % x for x in buffers]
+for ii, filename in enumerate(filenames):     arcpy.analysis.Buffer("Laurentia_no-north-slope",                            "Laurentia_buffered_margin_no-north-slope/"+ filename,                            "-%d Kilometers" % buffers[ii],                            "FULL", "ROUND", "LIST", "CONTINENT", "GEODESIC")
+import numpy as np
+arcpy.env.workspace = "C:/Users/XPS/Documents/research/macrostrat/gis"
+buffers = np.arange(100, 1800, 100)
+filenames = ['Gondwana_%04dkm' % x for x in buffers]
+for ii, filename in enumerate(filenames):     arcpy.analysis.Buffer("gondwana",                            "Gondwana_buffers/"+ filename,                            "-%d Kilometers" % buffers[ii],                            "FULL", "ROUND", "LIST", "CONTINENT", "GEODESIC")
+for ii, filename in enumerate(filenames):     arcpy.analysis.Buffer("gondwana",                            "Gondwana_buffers/"+ filename,                            "-%d Kilometers" % buffers[ii],                            "FULL", "ROUND", "LIST", [], "GEODESIC")
+buffers = np.arange(400, 4000, 400)
+buffers
+buffers = np.arange(400, 4400, 400)
+filenames = ['Gondwana_%04dkm' % x for x in buffers]
+for ii, filename in enumerate(filenames):     arcpy.analysis.Buffer("gondwana",                            "Gondwana_buffers/"+ filename,                            "-%d Kilometers" % buffers[ii],                            "FULL", "ROUND", "LIST", [], "GEODESIC")
+buffers = np.arange(-400, -4400, -400)
+filenames = ['Gondwana_%04dkm' % x for x in buffers]
+for ii, filename in enumerate(filenames):     arcpy.analysis.Buffer("gondwana",                            "Gondwana_buffers/"+ filename,                            "-%d Kilometers" % buffers[ii],                            "FULL", "ROUND", "LIST", [], "GEODESIC")
+ii
+buffers[ii]
+for ii, filename in enumerate(filenames):     arcpy.analysis.Buffer("gondwana",                            "Gondwana_buffers/"+ filename,                            "%d Kilometers" % -buffers[ii],                            "FULL", "ROUND", "LIST", [], "GEODESIC")

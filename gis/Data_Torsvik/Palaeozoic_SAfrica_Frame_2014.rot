@@ -1,0 +1,400 @@
+1             250           0             0             0             0             ! GPlates Palaeozoic Torsvik et al 2012
+1             260           0             0             0             0             ! Header is TPW correction
+1             280           0             11            7             0             ! Reconstruct to Plate Id = 0 for TPW correction
+1             300           0             11            7             0             ! Otherwise Reconstruct to Plate Id = 1
+1             350           0             11            -22           0             ! Published in:
+1             380           0             11            -22           0             ! Torsvik - Van der Voo - Doubrovine et al 2012
+1             410           0             11            -31           0             ! Published in:
+1             420           0             11            -31           0             !
+1             430           0             11            -35           0             !
+1             460           0             11            -62           0             !
+1             490           0             11            -62           0             !
+1             520           0             11            -42           0             !
+1             550           0             11            -42           0             ! ALL PLATES RELATIVE 701
+101           250           63.19         -13.87        79.87         701           ! North America
+101           320           63.19         -13.87        79.87         701           ! North America
+101           330           52.34         -20.01        81.57         701           ! North America
+101           340           38.73         -15.87        86.18         701           ! North America
+101           350           29.94         -14.54        91.05         701           ! North America
+101           360           17.48         -18.96        111.39        701           ! North America
+101           370           8.9           -21.96        140.86        701           ! North America
+101           380           11.83         -25           141.71        701           ! North America
+101           390           9.6           -25.92        142.03        701           ! North America
+101           400           8.13          -24.99        134.63        701           ! North America
+101           410           4.11          -23.77        122.42        701           ! North America
+101           420           4.12          -22.16        97.99         701           ! North America
+101           430           5.17          -27.94        81.2          701           ! North America
+101           440           7.75          -35.54        97.98         701           ! North America
+101           450           10.43         -38.78        108.64        701           ! North America
+101           460           14.83         -39.68        110.99        701           ! North America
+101           470           21.5          -44.25        93.69         701           ! North America
+101           480           28.05         -46.77        79.07         701           ! North America
+101           490           36.43         -59.04        63.74         701           ! North America
+101           500           39.32         -88.75        43.9          701           ! North America
+101           510           42.98         -66.44        25.65         701           ! North America
+101           520           11.65         -17.25        22.38         701           ! North America
+101           530           9.54          171.92        -43.53        701           ! North America
+101           540           17.95         166.47        -58.08        701           ! North America
+102           250           60.48         1.42          69.4          701           ! Greenland
+102           320           60.48         1.42          69.4          701           ! Greenland
+102           330           49.11         -7.55         72.39         701           ! Greenland
+102           340           34.84         -5.18         79.73         701           ! Greenland
+102           350           26.21         -4.67         86.48         701           ! Greenland
+102           360           15.62         -10.41        108.92        701           ! Greenland
+102           370           9.2           -14.45        139.77        701           ! Greenland
+102           380           12.19         -17.49        139.67        701           ! Greenland
+102           390           10            -18.45        140.4         701           ! Greenland
+102           400           8.05          -17.33        133.48        701           ! Greenland
+102           410           3.19          -15.82        122.4         701           ! Greenland
+102           420           1.13          -13.39        98.39         701           ! Greenland
+102           430           0.26          -18.34        81.08         701           ! Greenland
+102           440           4.75          -26.71        96.33         701           ! Greenland
+102           450           8.42          -30.38        105.95        701           ! Greenland
+102           460           13.06         -31.35        107.23        701           ! Greenland 
+102           470           18.31         -35.23        88.29         701           ! Greenland
+102           480           23.49         -36.87        72.31         701           ! Greenland
+102           490           30.43         -48.19        54.68         701           ! Greenland
+102           500           28.98         -78.43        32.94         701           ! Greenland
+102           510           18.7          -45.13        16.64         701           ! Greenland
+102           520           16.91         -178.45       -24.96        701           ! Greenland
+102           530           21.03         -176.1        -49.28        701           ! Greenland
+102           540           25.04         177.14        -64.58        701           ! Greenland
+108           250           63.19         -13.87        79.87         701           ! Acadia
+108           320           63.19         -13.87        79.87         701           ! Acadia
+108           330           52.34         -20.01        81.57         701           ! Acadia
+108           340           38.73         -15.87        86.18         701           ! Acadia
+108           350           29.94         -14.54        91.05         701           ! Acadia
+108           360           17.48         -18.96        111.39        701           ! Acadia
+108           370           8.9           -21.96        140.86        701           ! Acadia
+108           380           11.83         -25           141.71        701           ! Acadia
+108           390           9.6           -25.92        142.03        701           ! Acadia
+108           400           8.13          -24.99        134.63        701           ! Acadia
+108           410           4.11          -23.77        122.42        701           ! Acadia
+108           420           4.12          -22.16        97.99         701           ! Acadia
+108           430           5.17          -27.94        81.2          701           ! Acadia
+108           440           11.2          -36.86        92.54         701           ! Acadia
+108           450           21.39         -34.56        92.86         701           ! Acadia
+108           460           29.19         -31.83        96.56         701           ! Acadia 
+108           470           36.62         -25.68        91.32         701           ! Acadia
+108           480           41.64         -10.31        83.37         701           ! Acadia
+108           490           43.38         -3.41         78.61         701           ! Acadia (Peri-Gondwana)
+108           540           43.38         -3.41         78.61         701           ! Acadia (Peri-Gondwana)
+109           250           63.19         -13.87        79.87         701           ! Florida
+109           540           63.19         -13.87        79.87         701           ! Florid (Peri-Gondwana)v
+201           250           50            -32.5         55.08         701           ! Amazonia (Core Gondwana)
+201           540           50            -32.5         55.08         701           ! Amazonia (Core Gondwana)
+202           250           47.51         -33.3         56.2          701           ! Parana (Core Gondwana)
+202           540           47.58         -33.3         56.2          701           ! Parana (Core Gondwana)
+290           250           47.5          -33.3         57.3          701           ! Colorado (Core Gondwana)
+290           540           47.5          -33.3         57.3          701           ! Colorado (Core Gondwana)
+291           250           47.5          -33.3         63            701           ! Patagonia (Peri-Gondwana)
+291           260           49.12         -30.35        62.28         701           ! Patagonia (Peri-Gondwana)
+291           270           50.68         -27.15        61.66         701           ! Patagonia (Peri-Gondwana)
+291           540           50.68         -27.15        61.66         701           ! Patagonia (Peri-Gondwana)
+302           250           46.04         3.89          58.2          701           ! Baltica
+302           320           46.04         3.89          58.2          701           ! Baltica
+302           330           34.1          -2.57         64.85         701           ! Baltica
+302           340           20.86         0.32          76.07         701           ! Baltica
+302           350           13.46         1.19          85.23         701           ! Baltica
+302           360           6.41          -3.38         110.96        701           ! Baltica
+302           370           3.38          -6.5          143.63        701           ! Baltica
+302           380           6.45          -9.32         142.86        701           ! Baltica
+302           390           4.42          -10.34        144.34        701           ! Baltica
+302           400           1.82          -9.42         138.07        701           ! Baltica
+302           410           4.01          171.62        -128.59       701           ! Baltica
+302           420           8.73          173.11        -105.51       701           ! Baltica
+302           430           11.72         167.67        -89.36        701           ! Baltica
+302           440           14.27         168.23        -84.07        701           ! Baltica
+302           450           19.32         167.39        -72.49        701           ! Baltica
+302           460           28.57         168.91        -58.33        701           ! Baltica 
+302           470           46.54         174.95        -47.21        701           ! Baltica
+302           480           75.11         -170.2        -47.4         701           ! Baltica
+302           490           77.58         37.73         -69.4         701           ! Baltica
+302           500           65.26         33.54         -105.39       701           ! Baltica
+302           510           64.93         10.76         -113.77       701           ! Baltica
+302           520           65.74         -22.11        -118.37       701           ! Baltica
+302           530           63.24         -35.9         -135.01       701           ! Baltica
+302           540           59.6          -37.67        -150.78       701           ! Baltica
+303           250           46.04         3.89          58.2          701           ! Scotland
+303           320           46.04         3.89          58.2          701           ! Scotland
+303           330           34.1          -2.57         64.85         701           ! Scotland
+303           340           20.86         0.32          76.07         701           ! Scotland 
+303           350           13.46         1.19          85.23         701           ! Scotland
+303           360           6.41          -3.38         110.96        701           ! Scotland
+303           370           3.38          -6.5          143.63        701           ! Scotland
+303           380           6.45          -9.32         142.86        701           ! Scotland
+303           390           4.42          -10.34        144.34        701           ! Scotland
+303           400           1.82          -9.42         138.07        701           ! Scotland
+303           410           4.01          171.62        -128.59       701           ! Scotland
+303           420           8.73          173.11        -105.51       701           ! Scotland
+303           430           11.72         167.67        -89.36        701           ! Scotland
+303           440           4.92          160.65        -103.44       701           ! Scotland (Peri-Laurentia)
+303           450           0.07          157.66        -111.91       701           ! Scotland (Peri-Laurentia)
+303           460           4.54          -22.97        111.71        701           ! Scotland (Peri-Laurentia) 
+303           470           7.08          -26.86        91.69         701           ! Scotland (Peri-Laurentia)
+303           480           8.92          -28.65        74.6          701           ! Scotland (Peri-Laurentia)
+303           490           10.71         -38.96        55.83         701           ! Scotland (Peri-Laurentia)
+303           500           1.5           115.95        -36.25        701           ! Scotland (Peri-Laurentia)
+303           510           28.48         139.21        -27.03        701           ! Scotland (Peri-Laurentia)
+303           520           43.27         175.34        -38.79        701           ! Scotland (Peri-Laurentia)
+303           530           37.42         -175.86       -62.13        701           ! Scotland (Peri-Laurentia)
+303           540           37.2          179.43        -78.39        701           ! Scotland (Peri-Laurentia)
+304           250           51.77         67.88         3.42          701           ! Iberia
+304           320           51.77         67.88         3.42          701           ! Iberia
+304           330           10.76         -166.02       -15.09        701           ! Iberia
+304           340           14.04         -154.13       -33.63        701           ! Iberia
+304           350           12.65         -153.64       -41.98        701           ! Iberia
+304           360           9.43          -164.23       -64.97        701           ! Iberia
+304           370           28.2          -144.2        -64.1         701           ! Iberia REV
+304           380          -48.1          83.3          58.9          701           ! Iberia REV
+304           390           47.3          -44.6         -88.9         701           ! Iberia REV
+304           400           44.8          -26.31        -101.8        701           ! Iberia  REV
+304           410           40.5          -11.6         -113.9        701           ! Iberia (Peri-Gondwana) REV
+304           420           39.51         -6.66         -116.57       701           ! Iberia (Peri-Gondwana)
+304           540           39.5          -6.73         -116.57       701           ! Iberia (Peri-Gondwana)
+305           250           46.04         3.89          58.2          701           ! Armorica
+305           320           46.04         3.89          58.2          701           ! Armorica
+305           330           34.1          -2.57         64.85         701           ! Armorica
+305           340           20.86         0.32          76.07         701           ! Armorica
+305           350           17.03         0.83          82.86         701           ! Armorica
+305           360           11.58         -5.17         104.92        701           ! Armorica
+305           370           -2.6          175.9         -99.8         701           ! Armorica REV
+305           380           -7.2          174.1         -83.7         701           ! Armorica REV
+305           390           10.6          -4.8          61.1          701           ! Armorica REV
+305           400           16.9           2.5          39.5          701           ! Armorica REV
+305           410           -39.4         -155.5        -23.3         701           ! Armorica (Peri-Gondwana) REV
+305           420           54.59         38.4          21.52         701           ! Armorica (Peri-Gondwana)
+305           540           54.33         38.43         21.52         701           ! Armorica (Peri-Gondwana)
+315           250           46.04         3.89          58.2          701           ! England -Brabant
+315           320           46.04         3.89          58.2          701           ! England -Brabant
+315           330           34.1          -2.57         64.85         701           ! England -Brabant
+315           340           20.86         0.32          76.07         701           ! England -Brabant
+315           350           13.46         1.19          85.23         701           ! England -Brabant
+315           360           6.41          -3.38         110.96        701           ! England -Brabant
+315           370           3.38          -6.5          143.63        701           ! England -Brabant
+315           380           6.45          -9.32         142.86        701           ! England -Brabant
+315           390           4.42          -10.34        144.34        701           ! England -Brabant
+315           400           1.82          -9.42         138.07        701           ! England -Brabant
+315           410           4.01          171.62        -128.59       701           ! England -Brabant
+315           420           8.73          173.11        -105.51       701           ! England -Brabant
+315           430           11.72         167.67        -89.36        701           ! England -Brabant
+315           440           14.27         168.23        -84.07        701           ! England -Brabant
+315           450           4.5           170.29        -76.72        701           ! England -Brabant
+315           460           -5.19         172.56        -73.27        701           ! England -Brabant
+315           470           11.17         -0.94         62.97         701           ! England -Brabant
+315           480           13.41         16.78         53.14         701           ! England -Brabant (Peri-Gondwana)
+315           490           12.5          25.18         48.51         701           ! England -Brabant (Peri-Gondwana)
+315           540           12.5          25.18         48.5          701           ! England -Brabant (Peri-Gondwana)
+373           250           49.08         2.28          60.6          701           ! Novaya -Semya
+373           320           49.08         2.28          60.6          701           ! Novaya -Semya
+373           330           37.14         -4.34         66.5          701           ! Novaya -Semya
+373           340           23.59         -1.42         76.85         701           ! Novaya -Semya
+373           350           15.87         -0.56         85.51         701           ! Novaya -Semya
+373           360           8.01          -5.21         110.69        701           ! Novaya -Semya
+373           370           4.25          -8.41         143.1         701           ! Novaya -Semya
+373           380           7.31          -11.26        142.52        701           ! Novaya -Semya
+373           390           5.25          -12.27        143.85        701           ! Novaya -Semya
+373           400           2.77          -11.31        137.41        701           ! Novaya -Semya
+373           410           2.88          169.79        -127.55       701           ! Novaya -Semya
+373           420           7.08          171.38        -104.19       701           ! Novaya -Semya
+373           430           9.66          165.98        -87.82        701           ! Novaya -Semya
+373           440           12.06         166.58        -82.38        701           ! Novaya -Semya
+373           450           16.76         165.82        -70.49        701           ! Novaya -Semya
+373           460           25.55         167.54        -55.82        701           ! Novaya -Semya
+373           470           43.7          174.15        -43.9         701           ! Novaya -Semya
+373           480           74.27         -168.07       -43.47        701           ! Novaya -Semya
+373           490           77.14         32.21         -65.66        701           ! Novaya -Semya
+373           500           64.91         30.45         -102          701           ! Novaya -Semya
+373           510           64.49         7.64          -110.52       701           ! Novaya -Semya
+373           520           65.09         -25.16        -115.19       701           ! Novaya -Semya
+373           530           62.67         -38.71        -131.95       701           ! Novaya -Semya
+373           540           59.19         -40.36        -147.88       701           ! Novaya -Semya
+390           250           46.04         3.89          58.2          701           ! Urals (Peri-Baltic arcs)
+390           320           46.04         3.89          58.2          701           ! Urals (Peri-Baltic arcs)
+390           330           34.1          -2.57         64.85         701           ! Urals (Peri-Baltic arcs)
+401           250           47.59         3.1           59.38         701           ! Siberia (peri - Siberia)
+401           260           48.22         2.61          60.09         701           ! Siberia (peri - Siberia)
+401           270           48.84         2.13          60.82         701           ! Siberia (peri - Siberia)
+401           280           49.44         1.64          61.55         701           ! Siberia (peri - Siberia)
+401           290           50.23         1.07          62.42         701           ! Siberia (peri - Siberia)
+401           300           50.99         0.49          63.3          701           ! Siberia (peri - Siberia)
+401           310           51.74         -0.09         64.2          701           ! Siberia (peri - Siberia)
+401           320           52.46         -0.67         65.1          701           ! Siberia (peri - Siberia)
+401           330           39.38         -3.08         62.59         701           ! Siberia (peri - Siberia)
+401           340           22.43         4.98          67.01         701           ! Siberia (peri - Siberia) 
+401           350           21.45         3.04          68.86         701           ! Siberia (peri - Siberia)
+401           360           20.9          -4.62         76.42         701           ! Siberia (peri - Siberia)
+401           370           20.47         -9.82         98.57         701           ! Siberia (peri - Siberia)
+401           380           28.43         -13.96        96.64         701           ! Siberia (peri - Siberia)
+401           390           35.05         -11.14        91.83         701           ! Siberia (peri - Siberia)
+401           400           36.84         -6.25         92.28         701           ! Siberia (peri - Siberia)
+401           410           41.82         2.43          86.66         701           ! Siberia (peri - Siberia)
+401           420           57.21         22.75         75.91         701           ! Siberia (peri - Siberia)
+401           430           68.26         50.31         64.91         701           ! Siberia (peri - Siberia)
+401           440           76.32         16.57         52.8          701           ! Siberia (peri - Siberia)
+401           450           70.32         -42.78        43.22         701           ! Siberia (peri - Siberia)
+401           460           52.14         -37.70        46.13         701           ! Siberia (peri - Siberia)
+401           470           60.25         -20.27        48.07         701           ! Siberia (peri - Siberia)
+401           480           76.95         11.23         52.64         701           ! Siberia (peri - Siberia)
+401           490           71.96         149.46        47.95         701           ! Siberia (peri - Siberia)
+401           500           61.81         145.39        43.87         701           ! Siberia (peri - Siberia)
+401           510           56.69         100.51        46.8          701           ! Siberia (peri - Siberia)
+401           520           46.16         63.47         47.05         701           ! Siberia (peri - Siberia)
+401           530           27.04         50.1          47.5          701           ! Siberia (peri - Siberia)
+401           540           3.59          45.81         55.49         701           ! Siberia (peri - Siberia)
+501           250           29.93         42.29         -60.47        701           ! India (Core Gondwana)
+501           540           29.93         42.29         -60.47        701           ! India (Core Gondwana)
+503           250           37.11         17.11         -8.86         701           ! Arabia (Core Gondwana)
+503           540           37.11         17.11         -8.86         701           ! Arabia (Core Gondwana)
+504           250           37.07         17.13         -8.83         701           ! Taurides (Turkey) (Peri-Gondwana)
+504           540           37.07         17.13         -8.83         701           ! Taurides (Turkey) (Peri-Gondwana)
+505           250           52.83         -11.13        7.73          701           ! Alborz (Iran) (Peri-Gondwana)
+505           260           18.37         32.21         -3.18         701           ! Alborz (Iran) (Peri-Gondwana)
+505           270           35.34         17.69         -7.89         701           ! Alborz (Iran) (Peri-Gondwana)
+505           540           35.34         17.69         -7.89         701           ! Alborz (Iran) (Peri-Gondwana)
+506           250           25.23         69.03         -55.07        701           ! Afghan (Peri-Gondwana)
+506           260           26.61         60.32         -61.61        701           ! Afghan (Peri-Gondwana)
+506           270           27.04         55.58         -66.03        701           ! Afghan (Peri-Gondwana)
+506           280           27.08         53.73         -67.75        701           ! Afghan (Peri-Gondwana)
+506           290           27.09         52.84         -68.62        701           ! Afghan (Peri-Gondwana)
+506           540           27.09         52.84         -68.62        701           ! Afghan (Peri-Gondwana)
+563           250           27.91         45.28         -58.22        701           ! Tethys Himalayan(GI)  
+563           270           28.24         44.8          -58.55        701           ! Tethys Himalayan(GI) 
+563           280           -28.88        -136.11       59.25         701           ! Tethys Himalayan(GI)
+563           290           -29.12        -136.58       59.59         701           ! Tethys Himalayan(GI)
+563           540           -29.12        -136.58       59.59         701           ! Tethys Himalayan(GI)
+564           250           -29.93        -137.71       60.46         701           ! Lesser Himalayan(GI)
+564           540           -29.93        -137.71       60.46         701           ! Lesser Himalayan(GI)
+581           250           -37.06        -162.86       8.82          701           ! Pontides (Turkey)
+581           540           -37.06        -162.86       8.82          701           ! Pontides (Turkey)
+582           250           -52.83        168.86        -7.73         701           ! Sanand (Iran)
+582           260           -18.38        -147.79       3.17          701           ! Sanand (Iran)
+582           270           -35.35        -162.28       7.89          701           ! Sanand (Iran)
+582           540           -35.35        -162.28       7.89          701           ! Sanand (Iran)
+583           250           31.56         63.55        -105.39        701           ! Lut REVISED 250
+583           260           -30.15        -121.24       112.63        701           ! Lut
+583           270           -29.41        -123.44       116.35        701           ! Lut (Peri-Gondwana)
+583           540           -29.41        -123.44       116.35        701           ! Lut (Peri-Gondwana)
+599           250           14.56         110.76        48.2          701           ! Sibumasu south
+599           260           5.02          105.57        68.7          701           ! Sibumasu south
+599           270           -1.95         -76.03        -79.45        701           ! Sibumasu south (Peri-Gondwana) 
+599           540           -1.95         -76.03        -79.45        701           ! Sibumasu south (Peri-Gondwana)
+601           250           23.87         130.2         -71.99        701           ! North China
+601           260           31.33         124.88        -76.03        701           ! North China
+601           270           37.09         120.13        -87.45        701           ! North China
+601           280           44.71         117.46        -98.11        701           ! North China
+601           290           43.96         112.1         -103.25       701           ! North China
+601           300           43.2          109.46        -106.39       701           ! North China
+601           310           47.21         108.32        -110.85       701           ! North China
+601           320           50.76         111.26        -121.28       701           ! North China
+601           330           52.88         111.21        -122.52       701           ! North China
+601           340           -58.02        -61.02         123.54       701           ! North China 
+601           350           57.23         122.22        -121.37       701           ! North China
+601           360           54.77         130.04        -122.23       701           ! North China
+601           370           54.81         149.28        -130.31       701           ! North China
+601           380           50.98         146.36        -130.91       701           ! North China
+601           390           52.34         145.65        -128.95       701           ! North China
+601           400           53.08         139.49        -121.55       701           ! North China
+601           410           55.94         130.09        -118.91       701           ! North China
+601           420           50.14         118.18        -118.36       701           ! North China
+601           430           44.63         110.81        -127.58       701           ! North China
+601           440           45.01         110.02        -144.79       701           ! North China
+601           450           46.54         113.3         -158.29       701           ! North China
+601           460           -49.64        -58.18         161.48       701           ! North China
+601           470           50.05         125.75        -153.16       701           ! North China
+601           480           46.76         120.48        -144.04       701           ! North China
+601           490           36.08         109.76        -148.18       701           ! North China
+601           500           32.54         105.78        -151.47       701           ! North China
+601           510           40.37         104.68        -146.81       701           ! North China
+601           520           50.59         100.5         -153.98       701           ! North China
+601           530           54.17         88.76         -168.61       701           ! North China
+601           540           58.81         81.38         -175.06       701           ! North China
+602           250           53.52         -99.21        37.09         701           ! South China
+602           260           41.85         -103.27       40.51         701           ! South China
+602           270           60.25         -175.17       39.8          701           ! South China
+602           280           60.92         164.36        30.78         701           ! South China
+602           290           56.92         168.31        31.11         701           ! South China
+602           300           53.62         164.62        29.94         701           ! South China
+602           310           49.96         161.26        28.91         701           ! South China
+602           320           45.23         141.21        25.42         701           ! South China
+602           330           42.25         140.57        25.53         701           ! South China
+602           340           39.29         140           25.7          701           ! South China
+602           350           38.76         128.78        23.61         701           ! South China
+602           360           37.38         120.92        22.89         701           ! South China
+602           370           35.4          113.01        22.45         701           ! South China
+602           380           24.03         126.78        22.48         701           ! South China
+602           390           11.3          132           22.9          701           ! South China
+602           400           19.34         140.65        25.56         701           ! South China
+602           410           19.95         152.09        29.24         701           ! South China
+602           420           1.97          -20.64        -19.18        701           ! South China
+602           430           14.35         -17.5         -18.47        701           ! South China (Peri-Gondwana)
+602           440           29.81         -15.31        -17.97        701           ! South China (Peri-Gondwana)
+602           450           44.95         -12.35        -18.8         701           ! South China (Peri-Gondwana)
+602           460           57.92         -8.17         -20.79        701           ! South China (Peri-Gondwana)
+602           470           53.67         62.99         -39.62        701           ! South China (Peri-Gondwana)
+602           480           45.57         77.14         -64.03        701           ! South China (Peri-Gondwana)
+602           540           45.57         77.14         -64.03        701           ! South China (Peri-Gondwana)
+603           250           16.73         112.1         46.74         701           ! Sibumasu North
+603           260           6.44          106.22        66.93         701           ! Sibumasu North
+603           270           3.17          104.43        77.56         701           ! Sibumasu North (Peri-Gondwana)
+603           540           3.17          104.43        77.56         701           ! Sibumasu North (Peri-Gondwana)
+606           250           25.38         68.23         -30.37        701           ! Lhasa (S Tibet)
+606           260           36.14         44.61         -35.02        701           ! Lhasa (S Tibet)
+606           270           34.53         37.26         -43.97        701           ! Lhasa (S Tibet)
+606           280           30.73         41.85         -54.31        701           ! Lhasa (S Tibet) (Peri-Gondwana)
+606           290           29.19         43.42         -59.6         701           ! Lhasa (S Tibet) (Peri-Gondwana)
+606           540           29.19         43.42         -59.6         701           ! Lhasa (S Tibet)
+616           250           25.38         68.23         -30.37        701           ! Qiantang (N Tibet)
+616           260           36.14         44.61         -35.02        701           ! Qiantang (N Tibet)
+616           270           34.53         37.26         -43.97        701           ! Qiantang (N Tibet)
+616           280           30.73         41.85         -54.31        701           ! Qiantang (N Tibet)
+616           290           29.19         43.42         -59.6         701           ! Qiantang (N Tibet) (Peri-Gondwana)
+616           540           29.19         43.42         -59.6         701           ! Qiantang (N Tibet) (Peri-Gondwana)
+701           250           -2.78         150.08        45.34         1             ! South Africa (Core Gondwana)
+701           260           -3.81         148.98        45.87         1             ! South Africa (Core Gondwana)
+701           270           7.4           -35.85        -51.9         1             ! South Africa (Core Gondwana)
+701           280           -7.21         143.43        58.41         1             ! South Africa (Core Gondwana)
+701           290           -14.93        137.7         60.97         1             ! South Africa (Core Gondwana)
+701           300           20.57         -47.73        -64.52        1             ! South Africa (Core Gondwana)
+701           310           19.53         -53.66        -67.86        1             ! South Africa (Core Gondwana)
+701           320           11.5          -60.73        -74.46        1             ! South Africa (Core Gondwana)
+701           330           7.86          -66.19        -73.18        1             ! South Africa (Core Gondwana)
+701           340           3.14          -66.54        -73.92        1             ! South Africa (Core Gondwana)
+701           350           1.55          -69.58        -72.48        1             ! South Africa (Core Gondwana)
+701           360           8.81          115.68        77.64         1             ! South Africa (Core Gondwana)
+701           370           18.89         126.95        89.51         1             ! South Africa (Core Gondwana)
+701           380           15.33         120.65        88.91         1             ! South Africa (Core Gondwana)
+701           390           -15.29        -62.94        -81.53        1             ! South Africa (Core Gondwana)
+701           400           -14.06        -67.19        -72.25        1             ! South Africa (Core Gondwana)
+701           410           -9.35         -75.71        -64.06        1             ! South Africa (Core Gondwana)
+701           420           5.99          -92.66        -67.78        1             ! South Africa (Core Gondwana)
+701           430           14.65         -107.1        -82.48        1             ! South Africa (Core Gondwana)
+701           440           9.11          -108.91       -96.15        1             ! South Africa (Core Gondwana)
+701           450           6.94          -110.79       -111.15       1             ! South Africa (Core Gondwana)
+701           460           7.28          -111.1        -122.10       1             ! South Africa (Core Gondwana)
+701           470           12.77         -115.52       -129.29       1             ! South Africa (Core Gondwana)
+701           480           18.3          -120.15       -135.48       1             ! South Africa (Core Gondwana)
+701           490           23.06         -130.91       -148.84       1             ! South Africa (Core Gondwana)
+701           500           26.66         -140.67       -154.56       1             ! South Africa (Core Gondwana)
+701           510           31.24         -144.41       -146.64       1             ! South Africa (Core Gondwana)
+701           520           30.22         -139.72       -127.55       1             ! South Africa (Core Gondwana)
+701           530           25.12         -136.31       -109.38       1             ! South Africa (Core Gondwana)
+701           540           20.18         -135.59       -94.43        1             ! South Africa (Core Gondwana)
+702           250           14.74         137.62        -15.64        701           ! Madagascar (Core Gondwana)
+702           540           14.74         137.62        -15.64        701           ! Madagascar (Core Gondwana)
+706           250           33.65         26.02         2.34          701           ! Oran Meseta (Core Gondwana)
+706           540           33.65         26.02         2.34          701           ! Oran Meseta (Core Gondwana)
+709           250           9.89          143           -0.22         701           ! Somalia (Core Gondwana)
+709           540           9.89          142.99        -0.22         701           ! Somalia (Core Gondwana)
+712           250           9.89          143           -0.22         701           ! Lake Victoria (Core Gondwana)
+712           540           9.89          142.99        -0.22         701           ! Lake Victoria (Core Gondwana)
+714           250           33.65         26.02         2.34          701           ! Northwest Africa (Core Gondwana)
+714           540           33.65         26.02         2.34          701           ! Northwest Africa (Core Gondwana)
+715           250           40.45         -61.4         -0.7          701           ! Northeast Africa (Core Gondwana)
+715           540           40.41         -61.4         -0.7          701           ! Northeast Africa (Core Gondwana)
+801           250           19.57         117.9         -56.42        701           ! Australia (Core Gondwana)
+801           540           19.57         117.9         -56.42        701           ! Australia (Core Gondwana)
+802           250           10.44         148.74        -58.41        701           ! East Antarctica (Core Gondwana)
+802           540           10.44         148.74        -58.41        701           ! East Antarctica (Core Gondwana)
+854           250           10.44         148.74        -58.41        701           ! Dronning Maud Land (Core Gondwana)
+854           540           10.44         148.74        -58.41        701           ! Dronning Maud Land (Core Gondwana)
