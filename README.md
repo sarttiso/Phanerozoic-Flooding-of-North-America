@@ -1,6 +1,6 @@
 # Phanerozoic Flooding of North America
 
-**Adrian Tasistro-Hart**
+[![DOI](https://zenodo.org/badge/666557676.svg)](https://zenodo.org/badge/latestdoi/666557676)
 
 This repository contains the data and Jupyter notebooks for performing the analysis and
 creating the figures for the article "Phanerozoic Flooding of North America and the
@@ -27,3 +27,4 @@ The include notebooks are listed below:
 - macrostrat_visualizer.ipynb
 - cordilleran_validation.ipynb : This notebook performs the comparison between
   Macrostrat and the USGS isopach dataset for the Western Interior Basin.
+- gondwana.ipynb : Visualizations of Gondwana.
