@@ -1,0 +1,1284 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Lee M. Osmonson, USGS, Denver, CO (comp.)</origin>
+				<origin>Feliks M. Persits, Contractor to USGS, Denver, CO (comp.)</origin>
+				<origin>Douglas W. Steinshouer, Contractor to USGS, Denver, CO</origin>
+				<origin>Timothy R. Klett, USGS, Denver, CO (comp.) and others</origin>
+				<pubdate>2000</pubdate>
+				<title>Geologic Provinces of the Arctic (prvarcst)</title>
+				<geoform>Downloadable GIS Data</geoform>
+				<pubinfo>
+					<publish>U.S. Geological Survey, Central Energy Resources Team</publish>
+				</pubinfo>
+				<lworkcit>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<origin>Feliks M. Persits and Gregory F. Ulmishek</origin>
+						<pubdate>2003</pubdate>
+						<title>Map Showing Geology, Oil and Gas Fields and Geologic Provinces of the Arctic</title>
+						<edition>version 1</edition>
+						<geoform>Digital Maps</geoform>
+						<serinfo>
+							<sername>U.S. Geological Survey Open-File Report</sername>
+							<issue>OFR-97-470-J</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Denver, Colorado</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+						<onlink>http://pubs.usgs.gov/of/1997/ofr-97-470/OF97-470J/</onlink>
+					</citeinfo>
+				</lworkcit>
+				<onlink>http://energy.cr.usgs.gov/oilgas/wep/</onlink>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>
+This coverage includes arcs, polygons and polygon labels that describe Arctic portion of the U.S. Geological Survey defined geologic provinces of the World in 2000.
+</abstract>
+			<purpose>
+This coverage is intended to delineate geologic provinces of the world used in the preparation of World Petroleum Assessment 2000, and to present summary results of this assessment.
+</purpose>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2000</caldate>
+				</sngdate>
+			</timeinfo>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>wll be updated during undiscovered oil and gas assessment of the Arctic</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-178.825082</westbc>
+				<eastbc>178.927952</eastbc>
+				<northbc>89.999989</northbc>
+				<southbc>53.791751</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>Geologic province</themekey>
+				<themekey>Oil and gas province</themekey>
+				<themekey>Oil province</themekey>
+				<themekey>Gas province</themekey>
+				<themekey>Oil and gas resource assessment</themekey>
+				<themekey>Oil resource assessment</themekey>
+				<themekey>Gas resource assessment</themekey>
+				<themekey>Natural gas liquids resource assessment</themekey>
+			</theme>
+			<theme>
+				<themekt>Gateway to the Earth draft 9 28-Jun-2002</themekt>
+				<themekey>Oil shale resources</themekey>
+				<themekey>Oil sand resources</themekey>
+				<themekey>Natural gas resources</themekey>
+				<themekey>Economic geology</themekey>
+			</theme>
+			<theme>
+				<themekt>ArcIMS Metadata Server Theme Codes</themekt>
+				<themekey>geoscientificInformation</themekey>
+				<themekey>environment</themekey>
+			</theme>
+			<theme>
+				<themekt>USGS Energy Program Themes Thesaurus</themekt>
+				<themekey>Earth Science</themekey>
+				<themekey>Natural Resources</themekey>
+				<themekey>U.S. Geological Survey</themekey>
+				<themekey>USGS</themekey>
+				<themekey>Geology</themekey>
+				<themekey>Oil</themekey>
+				<themekey>Natural Gas</themekey>
+				<themekey>Petroleum</themekey>
+				<themekey>Resource Assessment</themekey>
+			</theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>Arctic</placekey>
+			</place>
+			<place>
+  <placekt>USGS Energy Program Petroleum Assessment Units</placekt> 
+  <placekey>Mezen Basin, Province 1006</placekey> 
+  <placekey>Timan High, Province 1007</placekey> 
+  <placekey>Timan-Pechora Basin, Province 1008</placekey> 
+  <placekey>Ural-Novaya Zemlya Foldbelt, Province 1017</placekey> 
+  <placekey>South Barents Basin, Province 1050</placekey> 
+  <placekey>Kola Monocline-Finnmark Platform, Province 1051</placekey> 
+  <placekey>Ludlov Saddle, Province 1059</placekey> 
+  <placekey>North Barents Basin, Province 1060</placekey> 
+  <placekey>Admiralty Arch, Province 1061</placekey> 
+  <placekey>Novaya Zemlya Monocline, Province 1062</placekey> 
+  <placekey>Grumant Uplift, Province 1064</placekey> 
+  <placekey>North Novaya Zemlya Basin, Province 1065</placekey> 
+  <placekey>St. Anna Basin, Province 1066</placekey> 
+  <placekey>Vize High, Province 1067</placekey> 
+  <placekey>Ushakov High, Province 1068</placekey> 
+  <placekey>Uedineniya Basin, Province 1069</placekey> 
+  <placekey>Central Kara High, Province 1070</placekey> 
+  <placekey>Schmidt Basin, Province 1071</placekey> 
+  <placekey>Severnaya Zemlya High, Province 1072</placekey> 
+  <placekey>Arctic Ocean Slope, Province 1117</placekey> 
+  <placekey>West Siberian Basin, Province 1174</placekey> 
+  <placekey>Yenisey-Khatanga Basin, Province 1175</placekey> 
+  <placekey>Taimyr-Kara High, Province 1176</placekey> 
+  <placekey>Anabar Basin, Province 1200</placekey> 
+  <placekey>Khatanga Saddle, Province 1201</placekey> 
+  <placekey>Anabar-Olenek High, Province 1202</placekey> 
+  <placekey>Tunguska Basin, Province 1203</placekey> 
+  <placekey>Turukhan-Norilsk Folded Zone, Province 1204</placekey> 
+  <placekey>Turukhan-Igarka Uplift, Province 1205</placekey> 
+  <placekey>Nepa-Botuoba Arch, Province 1210</placekey> 
+  <placekey>Kempendiay Region, Province 1212</placekey> 
+  <placekey>Lena-Vilyuy Basin, Province 1214</placekey> 
+  <placekey>Laptev Shelf, Province 1218</placekey> 
+  <placekey>Verkhoyan-Chukotka Folded Region, Province 1250</placekey> 
+  <placekey>Zyryanka Basin, Province 1251</placekey> 
+  <placekey>Moma Basin, Province 1252</placekey> 
+  <placekey>Ayon Basin, Province 1253</placekey> 
+  <placekey>Blagoveshchensk Basin, Province 1254</placekey> 
+  <placekey>Anzhu Uplift, Province 1255</placekey> 
+  <placekey>Novosibirsk Basin, Province 1256</placekey> 
+  <placekey>De Long High, Province 1257</placekey> 
+  <placekey>North Chukchi Basin, Province 1258</placekey> 
+  <placekey>Wrangel Basin, Province 1259</placekey> 
+  <placekey>Wrangel-Herald Uplift, Province 1260</placekey> 
+  <placekey>South Chukchi-Hope Basin, Province 1261</placekey> 
+  <placekey>Anadyr Basin, Province 1300</placekey> 
+  <placekey>Penzhina Basin, Province 1303</placekey> 
+  <placekey>Koryak-Kamchatka Foldbelt, Province 1304</placekey> 
+  <placekey>Svalbard High, Province 4011</placekey> 
+  <placekey>Central Barents Platform, Province 4012</placekey> 
+  <placekey>Barents Continental Slope, Province 4013</placekey> 
+  <placekey>Troms-Bjornoya, Province 4014</placekey> 
+  <placekey>Hammerfest-Varanger Basin, Province 4015</placekey> 
+  <placekey>Baltic Shield-Norwegian Caledonides, Province 4016</placekey> 
+  <placekey>Vestford-Helgeland, Province 4017</placekey> 
+  <placekey>Northern Alaska, Province 5001</placekey> 
+  <placekey>Central Alaska, Province 5002</placekey> 
+  <placekey>Chukchi Borderland OCS, Province 5078</placekey> 
+  <placekey>Canada Basin-Beaufort Slope OCS, Province 5079</placekey> 
+  <placekey>Chukchi Shelf OCS, Province 5080</placekey> 
+  <placekey>Beaufort Shelf OCS, Province 5081</placekey> 
+  <placekey>Hope Basin OCS, Province 5082</placekey> 
+  <placekey>Norton Basin OCS, Province 5086</placekey> 
+  <placekey>East Greenland Rift Basins, Province 5200</placekey> 
+  <placekey>East Greenland Foldbelt, Province 5201</placekey> 
+  <placekey>Greenland Shield, Province 5202</placekey> 
+  <placekey>North Greenland Platform, Province 5203</placekey> 
+  <placekey>North Greenland Foldbelt, Province 5204</placekey> 
+  <placekey>Wandel Sea Basin, Province 5205</placekey> 
+  <placekey>Kane Basin, Province 5206</placekey> 
+  <placekey>Baffin Basin, Province 5207</placekey> 
+  <placekey>West Greenland Basin, Province 5208</placekey> 
+  <placekey>Southeast Greenland Basin, Province 5209</placekey> 
+  <placekey>Labrador-Newfoundland Shelf, Province 5215</placekey> 
+  <placekey>Canadian Shield, Province 5226</placekey> 
+  <placekey>Hudson Bay Basin, Province 5228</placekey> 
+  <placekey>Foxe Basin, Province 5229</placekey> 
+  <placekey>Boothia Basin, Province 5230</placekey> 
+  <placekey>South Arctic Basin, Province 5231</placekey> 
+  <placekey>Wollaston Basin, Province 5232</placekey> 
+  <placekey>Banks Basin, Province 5233</placekey> 
+  <placekey>Sverdrup Basin, Province 5234</placekey> 
+  <placekey>Minto Arch, Province 5235</placekey> 
+  <placekey>Parry Island Foldbelt, Province 5236</placekey> 
+  <placekey>Cornwallis Foldbelt, Province 5237</placekey> 
+  <placekey>Ellesmere Foldbelt, Province 5238</placekey> 
+  <placekey>Mackenzie Delta, Province 5239</placekey> 
+  <placekey>Mackenzie Delta Slope, Province 5240</placekey> 
+  <placekey>Arctic Coastal Shelf, Province 5241</placekey> 
+  <placekey>Northern Interior Basins, Province 5242</placekey> 
+  <placekey>Mackenzie Foldbelt, Province 5246</placekey> 
+  <placekey>Yukon Basin, Province 5247</placekey> 
+  <placekey>Canadian Cordillera, Province 5248</placekey> 
+  </place>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>None</useconst>
+		<native>
+Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 3; ESRI
+ArcCatalog 8.2.0.700
+</native>	<browse><browsen>http:\\certmapper.cr.usgs.gov\data\we\ofr97470j\graphic\prvarcst.jpg</browsen></browse>
+	</idinfo>
+	<dataqual>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey (comp.)</origin>
+						<pubdate>20000600</pubdate>
+						<title>Digital Data Series (DDS) 60 -- World Petroleum Assessment 2000</title>
+						<serinfo>
+							<sername>U.S. Geological Survey Digital Data Series</sername>
+							<issue>DDS-60</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Denver, CO</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+						<onlink>http://pubs.usgs.gov/dds/dds-060/</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>CD-ROM</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2000</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>DDS60</srccitea>
+				<srccontr>World Petroleum Assessment 2000</srccontr>
+			</srcinfo>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>Complete chain</sdtstype>
+				<ptvctcnt>361</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Label point</sdtstype>
+				<ptvctcnt>131</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>GT-polygon composed of chains</sdtstype>
+				<ptvctcnt>131</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Point</sdtstype>
+				<ptvctcnt>89</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Label point</sdtstype>
+				<ptvctcnt>
+0
+</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<mapproj>
+					<mapprojn>Stereographic_North_Pole</mapprojn>
+				</mapproj>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.008192</absres>
+						<ordres>0.008192</ordres>
+					</coordrep>
+					<plandu>meters</plandu>
+				</planci>
+			</planar>
+			<geodetic>
+				<horizdn>WGS 1984</horizdn>
+				<ellips>WGS 1984</ellips>
+				<semiaxis>6378137</semiaxis>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>wep_prvs.pat</enttypl>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>AREA</attrlabl>
+				<attrdef>Area of feature in internal units squared.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>
+Positive real numbers that are automatically
+generated.
+</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>PERIMETER</attrlabl>
+				<attrdef>Perimeter of feature in internal units.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>
+Positive real numbers that are automatically
+generated.
+</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>CODE</attrlabl>
+				<attrdomv>
+					<edom>
+						<edomv></edomv>
+						<edomvd></edomvd>
+						<edomvds>
+1
+1006
+1007
+1008
+1017
+1050
+1051
+1059
+1060
+1061
+1062
+1064
+1065
+1066
+1067
+1068
+1069
+1070
+1071
+1072
+1117
+1174
+1175
+1176
+1200
+1201
+1202
+1203
+1204
+1205
+1210
+1212
+1214
+1218
+1250
+1251
+1252
+1253
+1254
+1255
+1256
+1257
+1258
+1259
+1260
+1261
+1300
+1303
+1304
+4011
+4012
+4013
+4014
+4015
+4016
+4017
+5001
+5002
+5078
+5079
+5080
+5081
+5082
+5086
+5200
+5201
+5202
+5203
+5204
+5205
+5206
+5207
+5208
+5209
+5215
+5226
+5228
+5229
+5230
+5231
+5232
+5233
+5234
+5235
+5236
+5237
+5238
+5239
+5240
+5241
+5242
+5246
+5247
+5248
+</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>NAME</attrlabl>
+				<attrdomv>
+					<edom>
+						<edomv></edomv>
+						<edomvd></edomvd>
+						<edomvds>
+Admiralty Arch
+Anabar Basin
+Anabar-Olenek High
+Anadyr Basin
+Anzhu Uplift
+Arctic Coastal Shelf
+Arctic Ocean Slope
+Ayon Basin
+Baffin Basin
+Baltic Shield-Norwegian Caledonides
+Banks Basin
+Barents Continental Slope
+Beaufort Shelf OCS
+Blagoveshchensk Basin
+Boothia Basin
+Canada Basin-Beaufort Slope OCS
+Canadian Cordillera
+Canadian Shield
+Central Alaska
+Central Alaska
+Central Alaska
+Central Alaska
+Central Barents Platform
+Central Kara High
+Chukchi Borderland OCS
+Chukchi Shelf OCS
+Cornwallis Foldbelt
+De Long High
+East Greenland Foldbelt
+East Greenland Rift Basins
+Ellesmere Foldbelt
+Foxe Basin
+Greenland Shield
+Grumant Uplift
+Hammerfest-Varanger Basin
+Hope Basin OCS
+Hudson Bay Basin
+Kane Basin
+Kempendiay Region
+Khatanga Saddle
+Kola Monocline-Finnmark Platform
+Koryak-Kamchatka Foldbelt
+Labrador-Newfoundland Shelf
+Laptev Shelf
+Lena-Vilyuy Basin
+Ludlov Saddle
+Mackenzie Delta
+Mackenzie Delta Slope
+Mackenzie Foldbelt
+Mezen Basin
+Minto Arch
+Moma Basin
+Nepa-Botuoba Arch
+North Barents Basin
+North Chukchi Basin
+North Greenland Foldbelt
+North Greenland Platform
+North Novaya Zemlya Basin
+Northern Alaska
+Northern Interior Basins
+Norton Basin OCS
+Novaya Zemlya Monocline
+Novosibirsk Basin
+Ocean
+Parry Island Foldbelt
+Penzhina Basin
+Schmidt Basin
+Severnaya Zemlya High
+South Arctic Basin
+South Barents Basin
+South Chukchi-Hope Basin
+Southeast Greenland Basin
+St. Anna Basin
+Svalbard High
+Sverdrup Basin
+Taimyr-Kara High
+Timan High
+Timan-Pechora Basin
+Troms-Bjornoya Basin
+Tunguska Basin
+Turukhan-Igarka Uplift
+Turukhan-Norilsk Folded Zone
+Uedineniya Basin
+Ural-Novaya Zemlya Foldbelt
+Ushakov High
+Verkhoyan-Chukotka Folded Region
+Vestford-Helgeland
+Vize High
+Wandel Sea Basin
+West Greenland Basin
+West Siberian Basin
+Wollaston Basin
+Wrangel Basin
+Wrangel-Herald Uplift
+Yenisey-Khatanga Basin
+Yukon Basin
+Zyryanka Basin
+</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>TYPE</attrlabl>
+				<attrdomv>
+					<edom>
+						<edomv></edomv>
+						<edomvd></edomvd>
+						<edomvds>
+p - Priority Province. One of 76 non-U.S. geologic provinces defined by the U.S. Geological Survey that together contain 95 percent of the world's non-U.S. known petroleum volume. All priority provinces were analyzed for petroleum-resource assessments in the year 2000.
+
+b - Boutique province - A geologic province, other than a priority province as defined by the U.S. Geological Survey, considered for petroleum- resource assessment. Boutique provinces are chosen for a variety of  geologic, political, technical and geographic reasons.
+</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>REG</attrlabl>
+				<attrdomv>
+					<edom>
+						<edomv></edomv>
+						<edomvd>Energy Region of the World</edomvd>
+						<edomvds>
+U.S. Geological Survey; T.R. Klett and others, 1997.
+
+0 - ocean
+1 - Former Soviet Union
+4 - Europe
+5 - North America
+</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>STUDIED</attrlabl>
+				<attrdomv>
+					<edom>
+						<edomv></edomv>
+						<edomvd>Numeric code designating whether the geologic province has been studied in USGS World Petroleum Assessment 2000.</edomvd>
+						<edomvds>
+U.S. Geological Survey; T.R. Klett and others, 1997.
+
+0 - Province has not been assessed
+1 - Province includes all or a significant portion of an assessed assessment unit.
+</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>GOR</attrlabl>
+				<attrdef>Gas to oil ratio from oil and gas endowments of assessed assessment unit(s) in province,
+				Cubic feet of gas to barrels of oil (CFG/BO).
+				(Gor = Endo_gas/Endo_oil)
+				No data value is -9999
+</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>1054927.0</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>O-G</attrlabl>
+				<attrdef>Oil or gas as major commodity present in assessed assessment unit(s) in the province.
+</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>Oil</edomv>
+						<edomvd>Gas to oil ratio is less than 20,000 cubic feet of gas/barrel of oil (CFG/BO)</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<edom>
+						<edomv>Gas</edomv>
+						<edomvd>Gas to oil ratio is equal to or greater than 20,000 cubic feet of gas/barrel of oil (CFG/BO)</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<edom>
+						<edomv>NA</edomv>
+						<edomvd>Determination of major commodity is not available</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>CUM_OIL</attrlabl>
+				<attrdef>Cumulative oil production of fields assigned to assessed assessment unit(s) in the province,
+				Million barrels of oil (MMBO).
+				Reported volume of oil that has been produced.
+				No data value is -9999</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>46530.0</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>REM_OIL</attrlabl>
+				<attrdef>Remaining oil reserves of fields assigned to assessed assessment unit(s) in the province,
+				Million barrels of oil (MMBO).
+				The difference between known and cumulative oil.
+				(Rem_oil = Kwn_oil - Cum_oil)
+				No data value is -9999
+				Other negative values reflect inconsistencies in reported data.
+</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>93383.0</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>KWN_OIL</attrlabl>
+				<attrdef>Known (discovered) oil of fields assigned to assessed assessment unit(s) in the province,
+				Million barrels of oil (MMBO).
+				Reported discovered oil (the sum of cumulative oil production and remaining oil reserves).
+				(Kwn_oil = Cum_oil + Rem_oil)
+				No data value is -9999</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>139913.0</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>CUM_GAS</attrlabl>
+				<attrdef>Cumulative gas production of fields assigned to assessed assessment unit(s) in the province,
+				Billion cubic feet of gas (BCFG).
+				Reported volume of gas that has been produced.
+				No data value is -9999</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>218465.0</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>REM_GAS</attrlabl>
+				<attrdef>Remaining gas reserves of fields assigned to assessed assessment unit(s) in the province,
+				Billion cubic feet of gas (BCFG).
+				The difference between known (discovered) gas and cumulative gas production.
+				(Rem_gas = Kwn_gas - Cum_gas)
+				No data value is -9999</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>1051584.0</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>KWN_GAS</attrlabl>
+				<attrdef>Known (discovered) gas of fields assigned to assessed assessment unit(s) in the province,
+				Billion cubic feet of gas (BCFG).
+				Reported discovered volume (the sum of cumulative production and remaining reserves).
+				(Kwn_gas = Cum_gas + Rem_gas)
+				No data value is -9999</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>1270049.0</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>CUM_NGL</attrlabl>
+				<attrdef>Cumulative natural gas liquids production of fields assigned to assessed assessment unit(s) in the province,
+				Billion cubic feet of gas (BCFG).
+				Reported volume of natural gas liquids that has been produced.
+				No data value is -9999</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>362.0</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>REM_NGL</attrlabl>
+				<attrdef>Remaining natural gas liquids reserves of fields assigned to assessed assessment unit(s) in the province,
+				Million barrels of natural gas liquids (MMBNGL).  The difference between known (discovered) and cumulative natural gas liquids production.
+				(Rem_ngl = Kwn_ngl - Cum_ngl)
+				No data value is -9999
+				Other negative values reflect inconsistencies in reported data.</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>2870.0</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>KWN_NGL</attrlabl>
+				<attrdef>Known (discovered) natural gas liquids of fields assigned to assessed assessment unit(s) in the province,
+				Million barrels of natural gas liquids (MMBNGL).  Reported discovered volume (the sum of cumulative production and remaining reserves) of natural gas liquids.
+				(Kwn_ngl = Cum_ngl + Rem_ngl)
+				No data value is -9999</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>3142.0</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>CUM_PET</attrlabl>
+				<attrdef>Total cumulative petroleum production of fields assigned to assessed assessment unit(s) in the province,
+				Million barrels of oil equivalent (MMBOE).  Reported volume of oil, gas and natural gas liquids production.  No data value is -9999</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>83213</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>REM_PET</attrlabl>
+				<attrdef>Total remaining petroleum reserves of fields assigned to assessed assessment unit(s) in the province,
+				Million barrels of oil equivalent (MMBOE).  The difference between known (discovered) and cumulative oil, gas and natural gas liquids.
+				(Rem_pet = Kwn_pet - Cum_pet)
+				No data value is -9999</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>271517.0</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>KWN_PET</attrlabl>
+				<attrdef>Total known (discovered) petroleum reserves of fields assigned to assessed assessment unit(s) in the province,
+				Million barrels of oil equivalent (MMBOE).  Reported discovered volume (the sum of cumulative production and remaining reserves) of oil, gas and natural gas liquids.
+				(Kwn_pet = Cum_pet + Rem_pet)
+				No data value is -9999</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>354730.0</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>UNDS_OIL</attrlabl>
+				<attrdef>Mean undiscovered oil resources in assessed assessment unit(s) in the province,
+				Million barrels of oil (MMBO).
+				Mean volume estimated in World Petroleum Assessment 2000.
+				No data value is -9999</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>55235.0</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>UNDS_GAS</attrlabl>
+				<attrdef>Mean undiscovered gas resources in assessed assessment unit(s) in the province,
+				Billion cubic feet of gas (BCFG).  
+				Mean volume estimated in World Petroleum Assessment 2000.  
+				No data value is -9999</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>642934.0</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>UNDS_NGL</attrlabl>
+				<attrdef>Mean undiscovered natural gas liquids resources in assessed assessment unit(s) in the province,  
+				Million barrels of natural gas liquids (MMBNGL).  
+				Mean volume estimated by World Petroleum Assessment 2000.  
+				No data value is -9999</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>20373.0</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>UNDS_PET</attrlabl>
+				<attrdef>Total mean undiscovered petroleum resources in assessed assessment unit(s) in the province,  
+				Million barrels of oil equivalent (MMBOE).  
+				Mean volume estimated by World Petroleum Assessment 2000. 
+				No data value is -9999</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>182864.0</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ENDO_OIL</attrlabl>
+				<attrdef>Oil endowment of assessed assessment unit(s) in the province,  
+				Million barrels of oil (MMBO).  
+				The sum of known (discovered) oil and mean undiscovered oil.  (Endo_oil = Kwn_oil + Unds_oil)  
+				No data value is -9999</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>195148.0</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ENDO_GAS</attrlabl>
+				<attrdef>Gas endowment of assessed assessment unit(s) in the province,
+				Billion cubic feet of gas (BCFG).
+				The sum of known (discovered) gas and mean undiscovered gas.
+				(Endo_gas = Kwn_gas + Futr_gas)
+				No data value is -9999
+</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>1912983.0</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ENDO_NGL</attrlabl>
+				<attrdef>Natural gas liquids endowment of assessed assessment unit(s) in the province,  
+				Million barrels of natural gas liquids (MMBNGL). 
+				The sum of known (discovered) natural gas liquids and mean undiscovered natural gas liquids.  
+				(Endo_ngl = Kwn_ngl + Futr_ngl)  
+				No data value is -9999</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>23615.0</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ENDO_PET</attrlabl>
+				<attrdef>Total petroleum endowment of assessed assessment unit(s) in the province,  
+				Million barrels of oil equivalent (MMBOE).  
+				The sum of total known (discovered) petroleum and total mean undiscovered petroleum.  
+				(Endo_pet = Kwn_pet + Futr_pet) 
+				No data value is -9999</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>537593.0</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>MATR_OIL</attrlabl>
+				<attrdef>Discovery maturity of oil in assessed assessment unit(s) in the province,  
+				Percentage of oil discovered (known oil) with respect to oil endowment.  
+				((Matr_oil = Kwn_oil/Endo_oil) * 100)  
+				No data value is -9999</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>72</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>MATR_GAS</attrlabl>
+				<attrdef>Discovery maturity of gas in assessed assessment unit(s) in the province,  
+				Percentage of gas discovered (known gas) with respect to gas endowment.  
+				((Matr_gas = Kwn_gas/Endo_gas) * 100)  
+				No data value is -9999</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>94</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>MATR_NGL</attrlabl>
+				<attrdef>Discovery maturity of natural gas liquids in assessed assessment unit(s) in the province,  
+				Percentage of natural gas liquids discovered (known natural gas liquids) with respect to natural gas liquids endowment.
+				((Matr_ngl = Kwn_ngl/Endo_ngl) * 100)  
+				No data value is -9999</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>27</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>MATR_PET</attrlabl>
+				<attrdef>Discovery maturity of total petroleum in assessed assessment unit(s) in the province,  
+				Percentage of total petroleum discovered (known total petroleum) with respect to total petroleum endowment.  
+				((Matr_pet = Endo_pet/Kwn_pet) * 100)  
+				No data value is -9999</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>93</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FUTR_OIL</attrlabl>
+				<attrdef>Future oil in assessed assessment unit(s) in the province,  
+				Million barrels of oil (MMBO).  
+				The sum of remaining oil and estimated mean undiscovered oil.  (Futr_oil = Rem_oil + Unds_oil)  
+				No value is -9999
+				Other negative values reflect inconsistencies in reported data.</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>148618.0</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FUTR_GAS</attrlabl>
+				<attrdef>Future gas in assessed assessment unit(s) in the province,  
+				Billion cubic feet of gas (BCFG).  
+				The sum of remaining gas and estimated mean undiscovered gas.  (Futr_gas = Rem_gas + Unds_gas)  
+				No data value is -9999</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>1694518.0</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FUTR_NGL</attrlabl>
+				<attrdef>Future natural gas liquids in assessed assessment unit(s) in the province,  
+				Million barrels of natural gas liquids (MMBNGL).  
+				The sum of remaining natural gas liquids and estimated mean undiscovered natural gas liquids.  
+				(Futr_ngl = Rem_ngl + Unds_ngl)  
+				No data value is -9999</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>23343.0</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FUTR_PET</attrlabl>
+				<attrdef>Total future petroleum in assessed assessment unit(s) in the province,  
+				Million barrels of oil equivalent (MMBOE).  
+				The sum of total remaining petroleum and total mean estimated undiscovered petroleum.  
+				(Futr_pet = Rem_pet + Unds_pet)  
+				No data value is -9999</attrdef>
+				<attrdefs>U.S. Geological Survey</attrdefs>
+				<attrdomv>
+					<edom>
+						<edomv>-9999</edomv>
+						<edomvd>No data value</edomvd>
+						<edomvds>U.S. Geological Survey</edomvds>
+					</edom>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>454380.0</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Geological Survey, Central Energy Resources Team</cntorg>
+					<cntper>Christa Lopez</cntper>
+				</cntorgp>
+				<cntpos>Team Secretary</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>U.S.Geological Survey, Box 25046 MS 939 Building 25 Denver Federal Center</address>
+					<city>Denver</city>
+					<state>CO</state>
+					<postal>80225</postal>
+					<country>U.S.A.</country>
+				</cntaddr>
+				<cntvoice>303.236.1647</cntvoice>
+				<cntemail>eteamdisks@usgs.gov</cntemail>
+				<hours>8:00 am - 4:00 pm MST</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>
+This publication was prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employee, makes any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed in this report, or represent that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessary constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof.
+
+Although all data and software published are used by the U.S. Geological Survey, no warranty, expressed or implied, is made by the U.S. Geological Survey as to the accuracy of the data and related materials and (or) the functioning of the software. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of these data, software, or related materials.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>Export File</formname>
+					<formcont>Provinces geographic features and attribute data</formcont>
+					<transize>800 KB</transize>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://certmapper.cr.usgs.gov/data/we/ofr97470j/spatial/export/prvarcste.zip</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<digform>
+				<digtinfo>
+					<formname>Shapefile</formname>
+					<formcont>Provinces geographic features and attribute data</formcont>
+					<transize>1.2 MB</transize>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://certmapper.cr.usgs.gov/data/we/ofr97470j/spatial/shape/prvarcst.zip</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<digform>
+				<digtinfo>
+					<formname>Image Map Service (WorldArctic)</formname>
+					<formvern>4.0.1</formvern>
+					<formspec>ArcIMS Image Map Service</formspec>
+					<formcont>A web-based interactive mapping system that accesses an ArcIMS Map Service running on certmapper.cr.usgs.gov.</formcont>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://certmapper.cr.usgs.gov/pubs/servlet/MapViewerBroker?Service=WorldArctic&amp;OVMap=WorldArctic_overview&amp;project=world</networkr>
+							</networka>
+						</computer><accinstr>This URL links to a web-based interactive mapping system that accesses an ArcIMS Image Map Service.  The mapservice can also be accessed using any custom client that adheres to the protocol specified through ArcXML.</accinstr></onlinopt></digtopt>
+			</digform>
+			<fees>none</fees>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20030124</metd>
+		<metrd>20050125</metrd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Geological Survey, Central Energy Resource Team</cntorg>
+					<cntper>Laura R.H. Biewick</cntper>
+				</cntorgp>
+				<cntpos>GIS Coordinator</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>U.S. Geological Survey, Box 25046, MS 939, Denver Federal Center</address>
+					<city>Denver</city>
+					<state>Colorado</state>
+					<postal>80225</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>303-236-7773</cntvoice>
+				<cntemail>datamgt@usgs.gov</cntemail>
+				<cntinst>For inquiries regarding this document, please include the metadata contact person's name, dataset name, and publication series and number.</cntinst>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+	</metainfo></metadata>

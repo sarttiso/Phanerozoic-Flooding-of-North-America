@@ -1,0 +1,30 @@
+name: macrostrat
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - ipywidgets
+  - scipy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - pysal
+  - geopandas
+  - proj
+  - geos
+  - cartopy
+  - tqdm
+  - ipywidgets
+  - rasterio
+  - rasterstats
+  - shapely
+  - descartes
+  - jupyterlab
+  - openpyxl
+  - xlrd
+  - thefuzz
+  - netCDF4
+  - pip
+  - pip:
+      - pygeodesy

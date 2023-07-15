@@ -1,0 +1,88 @@
+environ_id,name,type,class,color,t_units,key
+1,peritidal,carbonate,marine,#B8B8E6,94,peritidal carbonate marine
+2,shallow subtidal,carbonate,marine,#3399FF,814,shallow subtidal carbonate marine
+3,open shallow subtidal,carbonate,marine,#3399FF,421,open shallow subtidal carbonate marine
+4,lagoonal/restricted shallow subtidal,carbonate,marine,#B8B8E6,216,lagoonal/restricted shallow subtidal carbonate marine
+5,sand shoal,carbonate,marine,#5CADFF,25,sand shoal carbonate marine
+6,reef,carbonate,marine,#33CCFF,156,reef carbonate marine
+7,buildup or bioherm,carbonate,marine,#33CCFF,7,buildup or bioherm carbonate marine
+8,perireef,carbonate,marine,#33CCFF,7,perireef carbonate marine
+9,intrashelf/intraplatform reef,carbonate,marine,#2EB8E6,4,intrashelf/intraplatform reef carbonate marine
+10,platform/shelf-margin reef,carbonate,marine,#2EB8E6,99,platform/shelf-margin reef carbonate marine
+11,slope/ramp reef,carbonate,marine,#297ACC,3,slope/ramp reef carbonate marine
+12,basin reef,carbonate,marine,#297ACC,0,basin reef carbonate marine
+13,deep subtidal ramp,carbonate,marine,#246BB2,8,deep subtidal ramp carbonate marine
+14,deep subtidal shelf,carbonate,marine,#246BB2,186,deep subtidal shelf carbonate marine
+15,deep subtidal indet.,carbonate,marine,#246BB2,109,deep subtidal indet. carbonate marine
+16,offshore ramp,carbonate,marine,#1F5C99,49,offshore ramp carbonate marine
+17,offshore shelf,carbonate,marine,#1F5C99,232,offshore shelf carbonate marine
+18,offshore indet.,carbonate,marine,#1F5C99,105,offshore indet. carbonate marine
+19,slope,carbonate,marine,#1A4C80,56,slope carbonate marine
+20,basinal,carbonate,marine,#1A4C80,3016,basinal carbonate marine
+21,paralic indet.,siliciclastic,marine,#007A5C,224,paralic indet. siliciclastic marine
+22,lagoonal,siliciclastic,marine,#007A5C,288,lagoonal siliciclastic marine
+23,coastal indet.,siliciclastic,marine,#007A5C,1101,coastal indet. siliciclastic marine
+24,foreshore,siliciclastic,marine,#007A5C,313,foreshore siliciclastic marine
+25,shoreface,siliciclastic,marine,#33D6AD,755,shoreface siliciclastic marine
+26,transition zone/lower shoreface,siliciclastic,marine,#99EBD6,529,transition zone/lower shoreface siliciclastic marine
+27,barrier bar,siliciclastic,marine,#80E6CC,151,barrier bar siliciclastic marine
+28,offshore,siliciclastic,marine,#B2F0E0,1041,offshore siliciclastic marine
+29,deltaic indet.,siliciclastic,marine,#19D1A3,461,deltaic indet. siliciclastic marine
+30,delta plain,siliciclastic,marine,#19D1A3,75,delta plain siliciclastic marine
+31,interdistributary bay,siliciclastic,marine,#00B88A,35,interdistributary bay siliciclastic marine
+32,delta front,siliciclastic,marine,#00CC99,129,delta front siliciclastic marine
+33,prodelta,siliciclastic,marine,#00CC99,118,prodelta siliciclastic marine
+34,deep-water indet.,siliciclastic,marine,#00523D,310,deep-water indet. siliciclastic marine
+35,basinal,siliciclastic,marine,#00291F,84646,basinal siliciclastic marine
+36,abyss,siliciclastic,marine,#00291F,4074,abyss siliciclastic marine
+37,submarine fan,siliciclastic,marine,#00664C,231,submarine fan siliciclastic marine
+38,marine,,marine,#CCFFFF,4133,marine  marine
+39,marginal marine,,marine,#00B88A,388,marginal marine  marine
+41,eolian indet.,eolian,non-marine,#FFD6AD,249,eolian indet. eolian non-marine
+42,dune,eolian,non-marine,#FFD6AD,72,dune eolian non-marine
+43,interdune,eolian,non-marine,#FFCC99,5,interdune eolian non-marine
+44,loess,eolian,non-marine,#FFEAD6,99,loess eolian non-marine
+45,fluvial indet.,fluvial,non-marine,#669900,1975,fluvial indet. fluvial non-marine
+46,fluvial braided,fluvial,non-marine,#75A319,263,fluvial braided fluvial non-marine
+47,fluvial meandering,fluvial,non-marine,#669900,114,fluvial meandering fluvial non-marine
+48,channel,fluvial,non-marine,#5C8A00,167,channel fluvial non-marine
+49,channel lag,fluvial,non-marine,#5C8A00,10,channel lag fluvial non-marine
+52,floodplain,fluvial,non-marine,#A3C266,351,floodplain fluvial non-marine
+55,levee,fluvial,non-marine,#94B84D,9,levee fluvial non-marine
+56,crevasse splay,fluvial,non-marine,#94B84D,35,crevasse splay fluvial non-marine
+57,fluvial-deltaic indet.,fluvial,non-marine,#669900,157,fluvial-deltaic indet. fluvial non-marine
+58,deltaic indet.,fluvial,non-marine,#75A319,82,deltaic indet. fluvial non-marine
+59,delta plain,fluvial,non-marine,#75A319,41,delta plain fluvial non-marine
+61,estuary/bay,fluvial,marine,#00B88A,395,estuary/bay fluvial marine
+62,glacial indet.,glacial,non-marine,#D6D6FF,969,glacial indet. glacial non-marine
+63,end moraine,glacial,non-marine,#DBDBFF,1,end moraine glacial non-marine
+64,ground moraine,glacial,non-marine,#DBDBFF,95,ground moraine glacial non-marine
+65,esker,glacial,non-marine,#DBDBFF,0,esker glacial non-marine
+66,drumlin,glacial,non-marine,#DBDBFF,0,drumlin glacial non-marine
+67,outwash plain,glacial,non-marine,#DBDBFF,48,outwash plain glacial non-marine
+68,lacustrine indet.,lacustrine,non-marine,#8AE68A,689,lacustrine indet. lacustrine non-marine
+69,lacustrine - large,lacustrine,non-marine,#8AE68A,6,lacustrine - large lacustrine non-marine
+70,lacustrine - small,lacustrine,non-marine,#8AE68A,24,lacustrine - small lacustrine non-marine
+71,pond,lacustrine,non-marine,#8AE68A,35,pond lacustrine non-marine
+72,crater lake,lacustrine,non-marine,#EBFFEB,0,crater lake lacustrine non-marine
+73,lacustrine deltaic indet.,lacustrine,non-marine,#ADFFAD,32,lacustrine deltaic indet. lacustrine non-marine
+74,lacustrine delta plain,lacustrine,non-marine,#6BB26B,9,lacustrine delta plain lacustrine non-marine
+75,lacustrine interdistributary bay,lacustrine,non-marine,#7ACC7A,2,lacustrine interdistributary bay lacustrine non-marine
+76,lacustrine delta front,lacustrine,non-marine,#A3FFA3,0,lacustrine delta front lacustrine non-marine
+77,lacustrine prodelta,lacustrine,non-marine,#ADFFAD,0,lacustrine prodelta lacustrine non-marine
+78,playa,lacustrine,non-marine,#E0FFE0,75,playa lacustrine non-marine
+79,karst indet.,landscape,non-marine,#D6D6C2,1,karst indet. landscape non-marine
+80,fissure fill,landscape,non-marine,#D6D6C2,0,fissure fill landscape non-marine
+81,cave,landscape,non-marine,#3D3D29,0,cave landscape non-marine
+82,sinkhole,landscape,non-marine,#999966,0,sinkhole landscape non-marine
+83,alluvial fan,landscape,non-marine,#B8B894,325,alluvial fan landscape non-marine
+84,mire/swamp,landscape,non-marine,#6B6B47,167,mire/swamp landscape non-marine
+85,spring,landscape,non-marine,#F5F5F0,0,spring landscape non-marine
+86,tar,landscape,non-marine,#6B6B47,0,tar landscape non-marine
+87,weathering surface,landscape,non-marine,#D6D6C2,47,weathering surface landscape non-marine
+88,non-marine,,non-marine,#CCFFCC,2429,non-marine  non-marine
+89,fluvial-lacustrine indet.,fluvial,non-marine,#74CDCD,254,fluvial-lacustrine indet. fluvial non-marine
+90,colluvial slope,landscape,non-marine,#B8B894,83,colluvial slope landscape non-marine
+91,slope,siliciclastic,marine,#00664C,399,slope siliciclastic marine
+92,tidal flat,siliciclastic,marine,#CCF5EB,150,tidal flat siliciclastic marine
+93,inferred marine,,marine,#D6F5FF,16648,inferred marine  marine
